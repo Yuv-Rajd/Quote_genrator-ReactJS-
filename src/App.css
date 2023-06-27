@@ -1,0 +1,9 @@
+body{
+  background: rgb(87, 242, 157);
+}
+#root{
+  height: 100vh;
+}
+.quote{
+  width: 75px;
+}
